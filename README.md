@@ -10,8 +10,8 @@ Md5ghost is a simple python tool performs a cracking operation for md5 hashes us
 
 #How To Use ?
 
-read the requirements  first to avoid code errors , if you have all of them then just run
-```python
+Read requirements first to avoid code errors, if you have all of them then just run
+```
 python3 md5ghost.py <your hashe>
 ```
 
