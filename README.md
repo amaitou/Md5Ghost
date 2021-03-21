@@ -1,6 +1,6 @@
 #  Md5Ghost
 
-Md5ghost is a simple python tool performs a cracking operation for md5 hashes using online wordlist from github platform
+Md5ghost is a simple python tool which performs a cracking operation for md5 hashes using online wordlist from github platform
 
 # Requirements
 
@@ -12,7 +12,7 @@ Md5ghost is a simple python tool performs a cracking operation for md5 hashes us
 
 Read requirements first to avoid code errors, if you have all of them then just run
 ```
-python3 md5ghost.py <your hashe>
+python3 md5ghost.py <your hash>
 ```
 
 # Contact Me
