@@ -18,7 +18,7 @@ python3 md5ghost.py <your hash>
 # Contact Me
 For Any Questions You Can Find Me on This Platforms :
 
-* Facebook : https://www.facebook.com/Lelouche01/
-* Instagram : https://www.instagram.com/lelouchee01/
-* Twitter : https://twitter.com/Lelouche01
-* Github : https://github.com/Lelouche01
+* Facebook : https://www.facebook.com/Lelouche0x1
+* Instagram : https://www.instagram.com/lelouche0x1/
+* Twitter  : https://twitter.com/Lelouche01
+* Github   : https://github.com/Lelouche01
