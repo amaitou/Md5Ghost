@@ -15,8 +15,10 @@ Read requirements first to avoid code errors, if you have all of them then just 
 python3 md5ghost.py <your hash>
 ```
 
-# Contact Me
-For Any Questions You Can Find Me on This Platforms :
+## Contact Me
 
-* Twitter : https://twitter.com/amait0u
-* Instagram : https://www.instagram.com/amait0u
+* [Twitter][_1]
+* [Instagram][_2]
+
+[_1]: https://twitter.com/amait0u
+[_2]: https://www.instagram.com/amait0u
