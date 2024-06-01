@@ -19,10 +19,8 @@ Read requirements first to avoid code errors, if you have all of them then just 
 python3 md5ghost.py <your hash>
 ```
 
-## Contact Me
+### **Contact Me**
 
 * [Twitter][_1]
-* [Instagram][_2]
 
 [_1]: https://twitter.com/amait0u
-[_2]: https://www.instagram.com/amait0u
